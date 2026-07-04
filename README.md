@@ -21,7 +21,7 @@
 
 ## 效果样例
 
-![报告长图预览](docs/images/report-overview.png)
+![完整报告长图预览](docs/images/report-fullpage.png)
 
 报告会把结论、指标、时间码、台词、记忆点、图形层和段落作用放在同一页里，方便直接复盘和复刻。
 
